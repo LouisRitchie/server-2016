@@ -8,8 +8,7 @@ var server = http.createServer(function serve(req, res) {
   
   res.write('<h1>deppth</h1>');
 
-  response.end('ok');   
-
+  res.end();   
 });
 
 server.listen(80);
