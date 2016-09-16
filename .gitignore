@@ -2,3 +2,5 @@ node_modules/*
 npm.*
 .rbenv-vars
 config/database.yml
+config/secrets.yml
+log/*
