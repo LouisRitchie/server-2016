@@ -1,3 +1,4 @@
 node_modules/*
 npm.*
 .rbenv-vars
+config/database.yml
